@@ -9,4 +9,7 @@
 <!-- BADGES:END -->
 
 <!-- BLOG-POST-LIST:START -->
+
+Testing VS Code git commit.
+
 <!-- BLOG-POST-LIST:END --> 
