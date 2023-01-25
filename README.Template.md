@@ -18,7 +18,30 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+<!-- PINNED-REPOS:START -->
+[![akat5uki repo](https://github-readme-stats.vercel.app/api/pin/?username=akat5uki&repo=akat5uki&show_owner=true&theme=radical&text_color=6f6f6f)](https://github.com/akat5uki/akat5uki)
+<!-- PINNED-REPOS_END -->
+
 <!-- STATS:START -->
-[![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=akat5uki)](https://github.com/akat5uki/akat5uki)
-[![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=akat5uki&show_icons=true)](https://github.com/akat5uki/akat5uki)
+[![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=akat5uki&show_icons=true&theme=radical&text_color=6f6f6f)](https://github.com/akat5uki)
+[![Top 3 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akat5uki&layout=compact&langs_count=3&theme=radical&text_color=6f6f6f)](https://github.com/akat5uki)
 <!-- STATS:END -->
+
+<!-- SKILLS:START -->
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
+
+<details>
+<summary>More Skills</summary>
+<br>
+
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4AB197)
+<br>
+![](https://img.shields.io/badge/Code-ABAP-informational?style=flat&logo=sap&logoColor=white&color=4AB197)
+  
+<br>
+</details>
+<!-- SKILLS:END -->
+
+<!-- QUOTES:START -->
+<!-- QUOTES:END -->
