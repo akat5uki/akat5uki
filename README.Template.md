@@ -9,6 +9,16 @@
 [![Koo Badge](./assets/Koo_badge.svg)](https://www.kooapp.com/profile/a.s.ra8or)
 <!-- BADGES:END -->
 
-<!-- BLOG-POST-LIST:START -->
+<!-- INDEX:START -->
+<!-- INDEX:END -->
 
-<!-- BLOG-POST-LIST:END --> 
+<!-- INTRODUCTION:START -->
+<!-- INTRODUCTION:END -->
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<!-- STATS:START -->
+[![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=akat5uki)](https://github.com/akat5uki/akat5uki)
+[![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=akat5uki&show_icons=true)](https://github.com/akat5uki/akat5uki)
+<!-- STATS:END -->
