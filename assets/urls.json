@@ -1,0 +1,12 @@
+[
+    {
+        "URL" : "https://api.forismatic.com/api/1.0/?method=getQuote&format=json&lang=en",
+        "QOT" : "quoteText",
+        "AUT" : "quoteAuthor"
+    },
+    {
+        "URL" : "https://api.quotable.io/random",
+        "QOT" : "content",
+        "AUT" : "author"
+    }
+]
