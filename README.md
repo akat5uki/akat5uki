@@ -87,7 +87,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> However many holy words you read, However many you speak, What good will they do you If you do not act on upon them?
+> When performance exceeds ambition, the overlap is called success. 
 > 
-> _Buddha_
+> _Cullen Hightower_
 <!-- QUOTES:END -->
