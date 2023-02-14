@@ -13,12 +13,21 @@
 <br>
 
 <!-- INDEX:START -->
+## 📜 Content
+<br>
+
+- iten1
+- item2
 <!-- INDEX:END -->
 
 <br>
 <br>
 
 <!-- INTRODUCTION:START -->
+## 👤 Introduction
+<br>
+
+...My short intro...
 <!-- INTRODUCTION:END -->
 
 <br>
@@ -75,7 +84,10 @@ _**...Coming soon...**_
 <br>
 
 <!-- QUOTES:START -->
-{{QuoteContent}}
+## 📣 How about a quote before you go?
+<br>
 
-{{QuoteAuthor}}
+> {{QuoteContent}}
+> 
+> _{{QuoteAuthor}}_
 <!-- QUOTES:END -->
