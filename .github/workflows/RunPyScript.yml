@@ -33,7 +33,7 @@ jobs:
 
     - name: Run script
       run: |
-        python assets/Main.py assets/urls.json README.Template.md README.output.md
+        python assets/Main.py assets/urls.json README.Template.md README.md
 
     - name: Commit & Push changes
       run: |
