@@ -13,8 +13,11 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
       with:
+        ref: main
+        submodules: 'recursive'
         persist-credentials: false
         fetch-depth: 0
+        token: ${{ secrets.PAT }}
 
     - name: Pull changes
       run: |
