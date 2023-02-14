@@ -15,12 +15,6 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v2
-      with:
-        ref: main
-        submodules: 'recursive'
-        persist-credentials: false
-        fetch-depth: 0
-        token: ${{ secrets.PAT }}
 
     - name: Pull changes
       run: |
@@ -42,8 +36,6 @@ jobs:
         python assets/Main.py assets/urls.json README.Template.md README.output.md
 
     - name: Commit & Push changes
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         git config --global user.name "akat5uki"
         git config --global user.email "40821810+akat5uki@users.noreply.github.com"
