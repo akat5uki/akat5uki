@@ -87,7 +87,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> When performance exceeds ambition, the overlap is called success. 
+> Leaders aren't born they are made. And they are made just like anything else, through hard work. And that's the price we'll have to pay to achieve that goal, or any goal.
 > 
-> _Cullen Hightower_
+> _Vince Lombardi_
 <!-- QUOTES:END -->
