@@ -77,5 +77,5 @@ _**...Coming soon...**_
 <!-- QUOTES:START -->
 {{QuoteContent}}
 
-- {{QuoteAuthor}}
+{{QuoteAuthor}}
 <!-- QUOTES:END -->

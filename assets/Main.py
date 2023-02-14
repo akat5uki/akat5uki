@@ -1,9 +1,11 @@
 import requests
 import sys
+import json
 
 QOT_CONTENT = r"{{QuoteContent}}"
-QOT_AUTHOR = r"{{QuoteContent}}"
+QOT_AUTHOR = r"{{QuoteAuthor}}"
 EXT_JSON = "json"
+NO_OF_ARGS = 4
 
 class MyExecption(Exception):
     pass
@@ -34,7 +36,9 @@ class FileHandler:
     def read_file(self):
         try:
             with open(self.file_name, "r") as f:
-                return f.read()
+                data = f.read()
+                f.close()
+                return data
         except FileNotFoundError as e:
             return None, "Could not open file: " + str(e)
         except Exception as e:
@@ -47,6 +51,7 @@ class FileHandler:
                 raise MyExecption()
             with open(self.file_name, "r") as f:
                 data = json.load(f)
+                f.close()
                 return data
         except FileNotFoundError as e:
             return None, "Could not open file: " + str(e)
@@ -66,35 +71,37 @@ class FileHandler:
         except Exception as e:
             return False, "Could not write to file: " + str(e)
 
-if len(sys.argv) != 4:
-    print("Usage: python program.py urls.txt template.txt result.txt")
-else:
-    urls_file_name, template_file_name, result_file_name = sys.argv[1:]
-    urls_file = FileHandler(urls_file_name)
-    urls_result = urls_file.read_json_file()
-    if isinstance(urls_result, tuple):
-        success, message = urls_result
-        print(message)
-    else:
-        urls = urls_result
-        quote_api = QuoteAPI(urls)
-        quote_result = quote_api.get_quote()
-        if isinstance(quote_result, tuple):
-            quote, author = quote_result
-            if quote and author:
-                template_file = FileHandler(template_file_name)
-                template_result = template_file.read_file()
-                if isinstance(template_result, tuple):
-                    success, message = template_result
-                    print(message)
-                else:
-                    contents = template_result
-                    contents = contents.replace(QOT_CONTENT, quote)
-                    contents = contents.replace(QOT_AUTHOR, author)
 
-                    result_file = FileHandler(result_file_name)
-                    file_write_result = result_file.write_file(contents)
-                    success, message = file_write_result
-                    print(message)
-            else:
-                print(author)
+if __name__ == "__main__":
+    if len(sys.argv) != NO_OF_ARGS:
+        print("Usage: python program.py urls.json template.md result.md")
+    else:
+        urls_file_name, template_file_name, result_file_name = sys.argv[1:]
+        urls_file = FileHandler(urls_file_name)
+        urls_result = urls_file.read_json_file()
+        if isinstance(urls_result, tuple):
+            success, message = urls_result
+            print(message)
+        else:
+            urls = urls_result
+            quote_api = QuoteAPI(urls)
+            quote_result = quote_api.get_quote()
+            if isinstance(quote_result, tuple):
+                quote, author = quote_result
+                if quote and author:
+                    template_file = FileHandler(template_file_name)
+                    template_result = template_file.read_file()
+                    if isinstance(template_result, tuple):
+                        success, message = template_result
+                        print(message)
+                    else:
+                        contents = template_result
+                        contents = contents.replace(QOT_CONTENT, quote)
+                        contents = contents.replace(QOT_AUTHOR, author)
+
+                        result_file = FileHandler(result_file_name)
+                        file_write_result = result_file.write_file(contents)
+                        success, message = file_write_result
+                        print(message)
+                else:
+                    print(author)

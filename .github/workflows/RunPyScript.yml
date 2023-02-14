@@ -1,0 +1,48 @@
+name: Run Python Script
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+      with:
+        persist-credentials: false
+        fetch-depth: 0
+
+    - name: Setup Git
+      uses: actions/setup-git@v2
+      with:
+        git-version: 2.x
+
+    - name: Pull changes
+      run: |
+        git config pull.rebase false
+        git pull origin main
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.x
+
+    - name: Install dependencies
+      run: |
+        pip install -r assets/requirements.txt
+
+    - name: Run script
+      run: |
+        python assets/Main.py assets/urls.json README.Template.md README.output.md
+
+    - name: Push changes
+      run: |
+        git add .
+        git config --global user.name "akat5uki"
+        git config --global user.email "40821810+akat5uki@users.noreply.github.com"
+        git commit -m "[Automated] README updated with new Random quote!"
+        git push origin main
