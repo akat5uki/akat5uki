@@ -87,7 +87,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> To find a man's true character, play golf with him.
+> However many holy words you read, However many you speak, What good will they do you If you do not act on upon them?
 > 
-> _P. G. Wodehouse_
+> _Buddha_
 <!-- QUOTES:END -->
