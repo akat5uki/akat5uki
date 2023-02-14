@@ -75,7 +75,7 @@ _**...Coming soon...**_
 <br>
 
 <!-- QUOTES:START -->
-Lots of people want to ride with you in the limo, but what you want is someone who will take the bus with you when the limo breaks down.
+Excellence is not a skill. It is an attitude. 
 
-Oprah Winfrey
+Ralph Marston
 <!-- QUOTES:END -->
