@@ -75,7 +75,7 @@ _**...Coming soon...**_
 <br>
 
 <!-- QUOTES:START -->
-I believe that we are fundamentally the same and have the same basic potential.
+I walk slowly, but I never walk backward.  
 
-Dalai Lama
+Abraham Lincoln
 <!-- QUOTES:END -->
