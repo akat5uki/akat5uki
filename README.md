@@ -87,7 +87,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Leaders aren't born they are made. And they are made just like anything else, through hard work. And that's the price we'll have to pay to achieve that goal, or any goal.
+> The longer we dwell on our misfortunes, the greater is their power to harm us. 
 > 
-> _Vince Lombardi_
+> _Voltaire _
 <!-- QUOTES:END -->
