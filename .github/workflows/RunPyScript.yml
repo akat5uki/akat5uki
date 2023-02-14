@@ -39,6 +39,8 @@ jobs:
         python assets/Main.py assets/urls.json README.Template.md README.output.md
 
     - name: Commit & Push changes
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         git add .
         git config --global user.name "akat5uki"
