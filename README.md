@@ -16,8 +16,12 @@
 ## 📜 Content
 <br>
 
-- iten1
-- item2
+- [👤 Introduction](#-introduction)
+- [📝 Blog Posts](#-blog-posts)
+- [📌 Pinned Repositories](#-pinned-repositories)
+- [📈 Github Statistics](#-github-statistics)
+- [💼 Skills](#-skills)
+- [📣 Random Quotes](#-how-about-a-quote-before-you-go)
 <!-- INDEX:END -->
 
 <br>
@@ -27,7 +31,11 @@
 ## 👤 Introduction
 <br>
 
-...My short intro...
+I am Ankit Singh Rathour, a SAP Technical Consultant with 2.5 years of industrial experience in ABAP Development. I am passionate about coding, and strives to become a Full stack developer. I am also experirnced in python, c, c++, java, html, etc. I want to actively contribute to several open-source projects.
+
+In my free time, I enjoy exploring modern technologies like blockchain, dApps, AI/ML, etc. I believe in "learn and earn" policy and is committed to work ~~hard~~ smart.
+
+Follow me on social media platforms to stay updated on my latest projects and adventures.
 <!-- INTRODUCTION:END -->
 
 <br>
@@ -69,14 +77,27 @@ _**...Coming soon...**_
 <br>
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-ABAP-informational?style=flat&logo=sap&logoColor=white&color=4AB197)
+
 <details>
 <summary>More Skills</summary>
 <br>
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
+
 <br>
-![](https://img.shields.io/badge/Code-ABAP-informational?style=flat&logo=sap&logoColor=white&color=4AB197)
+  
+![](https://img.shields.io/badge/Style-HTML-informational?style=flat&logo=html&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+  
+<br>
+
+![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
+
 </details>
 <!-- SKILLS:END -->
 
@@ -87,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> The longer we dwell on our misfortunes, the greater is their power to harm us. 
+> When in doubt, tell the truth.
 > 
-> _Voltaire _
+> _Mark Twain_
 <!-- QUOTES:END -->
