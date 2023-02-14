@@ -35,7 +35,7 @@ jobs:
       run: |
         python assets/Main.py assets/urls.json README.Template.md README.output.md
 
-    - name: Push changes
+    - name: Commit & Push changes
       run: |
         git add .
         git config --global user.name "akat5uki"
