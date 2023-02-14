@@ -13,12 +13,21 @@
 <br>
 
 <!-- INDEX:START -->
+## 📜 Content
+<br>
+
+- iten1
+- item2
 <!-- INDEX:END -->
 
 <br>
 <br>
 
 <!-- INTRODUCTION:START -->
+## 👤 Introduction
+<br>
+
+...My short intro...
 <!-- INTRODUCTION:END -->
 
 <br>
@@ -75,7 +84,10 @@ _**...Coming soon...**_
 <br>
 
 <!-- QUOTES:START -->
-I walk slowly, but I never walk backward.  
+## 📣 How about a quote before you go?
+<br>
 
-Abraham Lincoln
+> To find a man's true character, play golf with him.
+> 
+> _P. G. Wodehouse_
 <!-- QUOTES:END -->
