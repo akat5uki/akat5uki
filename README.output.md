@@ -75,7 +75,7 @@ _**...Coming soon...**_
 <br>
 
 <!-- QUOTES:START -->
-Excellence is not a skill. It is an attitude. 
+Face your deficiencies and acknowledge them; but do not let them master you. Let them teach you patience, sweetness, insight. 
 
-Ralph Marston
+Helen Keller 
 <!-- QUOTES:END -->
