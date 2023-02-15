@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.
+> A thing well said will be wit in all languages. 
 > 
-> _Kathleen Norris_
+> _John Dryden_
 <!-- QUOTES:END -->
