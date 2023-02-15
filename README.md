@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> When in doubt, tell the truth.
+> All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.
 > 
-> _Mark Twain_
+> _Kathleen Norris_
 <!-- QUOTES:END -->
