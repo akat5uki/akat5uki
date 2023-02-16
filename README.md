@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Either you run the day or the day runs you. 
+> Man is not sum of what he has already, but rather the sum of what he does not yet have, of what he could have.
 > 
-> _Jim Rohn _
+> _Jean-Paul Sartre_
 <!-- QUOTES:END -->
