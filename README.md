@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> A thing well said will be wit in all languages. 
+> Either you run the day or the day runs you. 
 > 
-> _John Dryden_
+> _Jim Rohn _
 <!-- QUOTES:END -->
