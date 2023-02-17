@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Man is not sum of what he has already, but rather the sum of what he does not yet have, of what he could have.
+> Always bear in mind that your own resolution to succeed is more important than any other.
 > 
-> _Jean-Paul Sartre_
+> _Abraham Lincoln_
 <!-- QUOTES:END -->
