@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Always bear in mind that your own resolution to succeed is more important than any other.
+> While we stop to think, we often miss our opportunity. 
 > 
-> _Abraham Lincoln_
+> _Publilius Syrus_
 <!-- QUOTES:END -->
