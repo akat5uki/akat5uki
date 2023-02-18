@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> While we stop to think, we often miss our opportunity. 
+> Life has no blessing like a prudent friend.
 > 
-> _Publilius Syrus_
+> _Euripides_
 <!-- QUOTES:END -->
