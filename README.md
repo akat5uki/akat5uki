@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Life has no blessing like a prudent friend.
+> Don't think of it as failure. Think of it as time-released success. 
 > 
-> _Euripides_
+> _Robert Orben_
 <!-- QUOTES:END -->
