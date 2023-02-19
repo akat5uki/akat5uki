@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Aim for success, not perfection. Never give up your right to be wrong, because then you will lose the ability to learn new things and move forward with your life. 
+> The only real failure in life is not to be true to the best one knows. 
 > 
-> _Dr. David M. Burns_
+> _Buddha _
 <!-- QUOTES:END -->
