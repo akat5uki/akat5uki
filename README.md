@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Don't think of it as failure. Think of it as time-released success. 
+> Aim for success, not perfection. Never give up your right to be wrong, because then you will lose the ability to learn new things and move forward with your life. 
 > 
-> _Robert Orben_
+> _Dr. David M. Burns_
 <!-- QUOTES:END -->
