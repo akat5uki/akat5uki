@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> The only real failure in life is not to be true to the best one knows. 
+> The world is always in movement. 
 > 
-> _Buddha _
+> _V. Naipaul_
 <!-- QUOTES:END -->
