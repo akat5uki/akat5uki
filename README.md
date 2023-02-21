@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> The world is always in movement. 
+> People seldom notice old clothes if you wear a big smile. 
 > 
-> _V. Naipaul_
+> _Lee Mildon_
 <!-- QUOTES:END -->
