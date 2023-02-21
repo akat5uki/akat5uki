@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> People seldom notice old clothes if you wear a big smile. 
+> Problems are only opportunities with thorns on them. 
 > 
-> _Lee Mildon_
+> _Hugh Miller _
 <!-- QUOTES:END -->
