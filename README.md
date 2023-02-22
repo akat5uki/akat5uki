@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Problems are only opportunities with thorns on them. 
+> Those who are free of resentful thoughts surely find peace.
 > 
-> _Hugh Miller _
+> _Buddha_
 <!-- QUOTES:END -->
