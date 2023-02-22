@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Those who are free of resentful thoughts surely find peace.
+> What is new in the world? Nothing. What is old in the world? Nothing. Everything has always been and will always be.  
 > 
-> _Buddha_
+> _Sai Baba _
 <!-- QUOTES:END -->
