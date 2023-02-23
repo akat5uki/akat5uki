@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> What is new in the world? Nothing. What is old in the world? Nothing. Everything has always been and will always be.  
+> When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self. 
 > 
-> _Sai Baba _
+> _Confucius_
 <!-- QUOTES:END -->
