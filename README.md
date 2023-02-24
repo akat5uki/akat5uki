@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> The deepest craving of human nature is the need to be appreciated. 
+> A man sees in the world what he carries in his heart.
 > 
-> _William James_
+> _Goethe_
 <!-- QUOTES:END -->
