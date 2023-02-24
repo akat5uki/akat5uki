@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Our lives are a sum total of the choices we have made.  
+> The deepest craving of human nature is the need to be appreciated. 
 > 
-> _Wayne Dyer_
+> _William James_
 <!-- QUOTES:END -->
