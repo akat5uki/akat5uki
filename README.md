@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> You may say Im a dreamer, but Im not the only one, I hope someday you will join us, and the world will live as one. 
+> I was thrown out of college for cheating on the metaphysics exam; I looked into the soul of the boy sitting next to me.
 > 
-> _John Lennon_
+> _Woody Allen_
 <!-- QUOTES:END -->
