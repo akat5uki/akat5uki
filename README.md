@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> A man sees in the world what he carries in his heart.
+> You may say Im a dreamer, but Im not the only one, I hope someday you will join us, and the world will live as one. 
 > 
-> _Goethe_
+> _John Lennon_
 <!-- QUOTES:END -->
