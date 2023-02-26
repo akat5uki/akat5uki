@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> You will not be punished for your anger, you will be punished by your anger.
+> The beginning of wisdom is found in doubting; by doubting we come to the question, and by seeking we may come upon the truth. 
 > 
-> _Buddha_
+> _Pierre Abelard_
 <!-- QUOTES:END -->
