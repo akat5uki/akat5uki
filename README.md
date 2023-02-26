@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> I was thrown out of college for cheating on the metaphysics exam; I looked into the soul of the boy sitting next to me.
+> You will not be punished for your anger, you will be punished by your anger.
 > 
-> _Woody Allen_
+> _Buddha_
 <!-- QUOTES:END -->
