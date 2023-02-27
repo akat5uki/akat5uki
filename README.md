@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> The beginning of wisdom is found in doubting; by doubting we come to the question, and by seeking we may come upon the truth. 
+> No act of kindness, no matter how small, is ever wasted.
 > 
-> _Pierre Abelard_
+> _Aesop_
 <!-- QUOTES:END -->
