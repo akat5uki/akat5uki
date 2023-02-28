@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Time is the most valuable thing a man can spend. 
+> Life is a learning experience, only if you learn.  
 > 
-> _Theophrastus _
+> _Yogi Berra_
 <!-- QUOTES:END -->
