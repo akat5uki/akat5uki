@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Take time to deliberate, but when the time for action has arrived, stop thinking and go in.  
+> Time is the most valuable thing a man can spend. 
 > 
-> _Napoleon Bonaparte _
+> _Theophrastus _
 <!-- QUOTES:END -->
