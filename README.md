@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Minds are like parachutes. They only function when open.
+> Trust your own instinct. Your mistakes might as well be your own, instead of someone elses. 
 > 
-> _Thomas Dewar_
+> _Billy Wilder_
 <!-- QUOTES:END -->
