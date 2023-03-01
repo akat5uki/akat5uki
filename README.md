@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Life is a learning experience, only if you learn.  
+> Minds are like parachutes. They only function when open.
 > 
-> _Yogi Berra_
+> _Thomas Dewar_
 <!-- QUOTES:END -->
