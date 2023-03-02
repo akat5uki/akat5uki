@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Trust your own instinct. Your mistakes might as well be your own, instead of someone elses. 
+> Every great advance in science has issued from a new audacity of the imagination.  
 > 
-> _Billy Wilder_
+> _John Dewey_
 <!-- QUOTES:END -->
