@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Every great advance in science has issued from a new audacity of the imagination.  
+> It is not fair to ask of others what you are unwilling to do yourself. 
 > 
-> _John Dewey_
+> _Eleanor Roosevelt_
 <!-- QUOTES:END -->
