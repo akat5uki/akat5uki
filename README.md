@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> If we did the things we are capable of, we would astound ourselves. 
+> He who obtains has little. He who scatters has much. 
 > 
-> _Thomas Edison_
+> _Richard Braunstein_
 <!-- QUOTES:END -->
