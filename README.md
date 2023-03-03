@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> It is not fair to ask of others what you are unwilling to do yourself. 
+> If we did the things we are capable of, we would astound ourselves. 
 > 
-> _Eleanor Roosevelt_
+> _Thomas Edison_
 <!-- QUOTES:END -->
