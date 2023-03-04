@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Anybody can make history. Only a great man can write it. 
+> Forgiveness does not change the past, but it does enlarge the future.
 > 
-> _Oscar Wilde_
+> _Paul Boese_
 <!-- QUOTES:END -->
