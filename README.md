@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> He who obtains has little. He who scatters has much. 
+> Anybody can make history. Only a great man can write it. 
 > 
-> _Richard Braunstein_
+> _Oscar Wilde_
 <!-- QUOTES:END -->
