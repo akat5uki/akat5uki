@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Live through feeling and you will live through love. For feeling is the language of the soul, and feeling is truth. 
+> It is with words as with sunbeams. The more they are condensed, the deeper they burn. 
 > 
-> _Matt Zotti_
+> _Robert Southey_
 <!-- QUOTES:END -->
