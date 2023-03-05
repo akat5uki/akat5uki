@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Forgiveness does not change the past, but it does enlarge the future.
+> Live through feeling and you will live through love. For feeling is the language of the soul, and feeling is truth. 
 > 
-> _Paul Boese_
+> _Matt Zotti_
 <!-- QUOTES:END -->
