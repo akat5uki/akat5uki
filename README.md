@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> As we risk ourselves, we grow. Each new experience is a risk. 
+> A rolling stone gathers no moss. 
 > 
-> _Fran Watson _
+> _Publilius Syrus_
 <!-- QUOTES:END -->
