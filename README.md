@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> It is with words as with sunbeams. The more they are condensed, the deeper they burn. 
+> As we risk ourselves, we grow. Each new experience is a risk. 
 > 
-> _Robert Southey_
+> _Fran Watson _
 <!-- QUOTES:END -->
