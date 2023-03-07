@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Wisdom is knowing what to do next; Skill is knowing how ot do it, and Virtue is doing it. 
+> We aim above the mark to hit the mark. 
 > 
-> _David Jordan_
+> _Ralph Emerson_
 <!-- QUOTES:END -->
