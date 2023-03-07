@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> A rolling stone gathers no moss. 
+> Wisdom is knowing what to do next; Skill is knowing how ot do it, and Virtue is doing it. 
 > 
-> _Publilius Syrus_
+> _David Jordan_
 <!-- QUOTES:END -->
