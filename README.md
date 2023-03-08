@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> We aim above the mark to hit the mark. 
+> God has given you one face, and you make yourself another.  
 > 
-> _Ralph Emerson_
+> _William Shakespeare _
 <!-- QUOTES:END -->
