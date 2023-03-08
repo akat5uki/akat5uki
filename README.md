@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> God has given you one face, and you make yourself another.  
+> Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.
 > 
-> _William Shakespeare _
+> _Sri Chinmoy_
 <!-- QUOTES:END -->
