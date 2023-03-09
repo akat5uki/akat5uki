@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.
+> Successful people ask better questions, and as a result, they get better answers.  
 > 
-> _Sri Chinmoy_
+> _Tony Robbins _
 <!-- QUOTES:END -->
