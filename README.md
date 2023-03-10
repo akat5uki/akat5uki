@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> If a man does his best, what else is there?
+> If I know what love is, it is because of you. 
 > 
-> _George Patton_
+> _Hermann Hesse_
 <!-- QUOTES:END -->
