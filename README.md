@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Successful people ask better questions, and as a result, they get better answers.  
+> If a man does his best, what else is there?
 > 
-> _Tony Robbins _
+> _George Patton_
 <!-- QUOTES:END -->
