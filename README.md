@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> If I know what love is, it is because of you. 
+> Your worst enemy cannot harm you as much as your own unguarded thoughts.
 > 
-> _Hermann Hesse_
+> _Buddha_
 <!-- QUOTES:END -->
