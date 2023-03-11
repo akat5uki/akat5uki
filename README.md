@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Your worst enemy cannot harm you as much as your own unguarded thoughts.
+> The universe is transformation; our life is what our thoughts make it.
 > 
-> _Buddha_
+> _Marcus Aurelius_
 <!-- QUOTES:END -->
