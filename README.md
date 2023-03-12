@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> The universe is transformation; our life is what our thoughts make it.
+> The truth which has made us free will in the end make us glad also. 
 > 
-> _Marcus Aurelius_
+> _Felix Adler_
 <!-- QUOTES:END -->
