@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> The truth which has made us free will in the end make us glad also. 
+> If your actions inspire others to dream more, learn more, do more and become more, you are a leader. 
 > 
-> _Felix Adler_
+> _John Quincy Adams_
 <!-- QUOTES:END -->
