@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> If your actions inspire others to dream more, learn more, do more and become more, you are a leader. 
+> I prefer to be true to myself, even at the hazard of incurring the ridicule of others, rather than to be false, and to incur my own abhorrence.
 > 
-> _John Quincy Adams_
+> _Frederick Douglass_
 <!-- QUOTES:END -->
