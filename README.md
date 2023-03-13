@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> I prefer to be true to myself, even at the hazard of incurring the ridicule of others, rather than to be false, and to incur my own abhorrence.
+> Having nothing, nothing can he lose.  
 > 
-> _Frederick Douglass_
+> _William Shakespeare _
 <!-- QUOTES:END -->
