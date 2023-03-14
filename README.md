@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Having nothing, nothing can he lose.  
+> When you arise in the morning, think of what a precious privilege it is to be alive — to breathe, to think, to enjoy, to love.  
 > 
-> _William Shakespeare _
+> _Marcus Aurelius _
 <!-- QUOTES:END -->
