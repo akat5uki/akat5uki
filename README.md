@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> When you arise in the morning, think of what a precious privilege it is to be alive — to breathe, to think, to enjoy, to love.  
+> It is not in the stars to hold our destiny but in ourselves.  
 > 
-> _Marcus Aurelius _
+> _William Shakespeare _
 <!-- QUOTES:END -->
