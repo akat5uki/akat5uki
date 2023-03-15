@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Truth is generally the best vindication against slander. 
+> Whoso loves, believes the impossible. 
 > 
-> _Abraham Lincoln_
+> _Elizabeth Browning_
 <!-- QUOTES:END -->
