@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> It is not in the stars to hold our destiny but in ourselves.  
+> Truth is generally the best vindication against slander. 
 > 
-> _William Shakespeare _
+> _Abraham Lincoln_
 <!-- QUOTES:END -->
