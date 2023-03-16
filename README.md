@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> We cannot do everything at once, but we can do something at once.  
+> Be great in act, as you have been in thought. 
 > 
-> _Calvin Coolidge _
+> _William Shakespeare_
 <!-- QUOTES:END -->
