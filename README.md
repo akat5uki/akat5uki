@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Whoso loves, believes the impossible. 
+> We cannot do everything at once, but we can do something at once.  
 > 
-> _Elizabeth Browning_
+> _Calvin Coolidge _
 <!-- QUOTES:END -->
