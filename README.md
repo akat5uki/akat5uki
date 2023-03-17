@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Be great in act, as you have been in thought. 
+> Never mistake activity for achievement.  
 > 
-> _William Shakespeare_
+> _John Wooden _
 <!-- QUOTES:END -->
