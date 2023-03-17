@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Never mistake activity for achievement.  
+> The path to success is to take massive, determined action. 
 > 
-> _John Wooden _
+> _Anthony Robbins _
 <!-- QUOTES:END -->
