@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Make the most of yourself, for that is all there is of you. 
+> Great ideas often receive violent opposition from mediocre minds. 
 > 
-> _Ralph Emerson_
+> _Albert Einstein_
 <!-- QUOTES:END -->
