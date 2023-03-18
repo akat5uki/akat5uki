@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> The path to success is to take massive, determined action. 
+> Make the most of yourself, for that is all there is of you. 
 > 
-> _Anthony Robbins _
+> _Ralph Emerson_
 <!-- QUOTES:END -->
