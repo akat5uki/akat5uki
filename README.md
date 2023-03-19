@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Great ideas often receive violent opposition from mediocre minds. 
+> Do one thing every day that scares you. 
 > 
-> _Albert Einstein_
+> _Eleanor Roosevelt _
 <!-- QUOTES:END -->
