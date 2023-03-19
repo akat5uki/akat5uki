@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Do one thing every day that scares you. 
+> You cannot make yourself feel something you do not feel, but you can make yourself do right in spite of your feelings. 
 > 
-> _Eleanor Roosevelt _
+> _Pearl Buck_
 <!-- QUOTES:END -->
