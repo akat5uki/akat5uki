@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> The world has the habit of making room for the man whose actions show that he knows where he is going.
+> People don't notice whether it's winter or summer when they're happy.
 > 
-> _Napoleon Hill_
+> _Anton Chekhov_
 <!-- QUOTES:END -->
