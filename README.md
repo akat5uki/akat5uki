@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> You cannot make yourself feel something you do not feel, but you can make yourself do right in spite of your feelings. 
+> The world has the habit of making room for the man whose actions show that he knows where he is going.
 > 
-> _Pearl Buck_
+> _Napoleon Hill_
 <!-- QUOTES:END -->
