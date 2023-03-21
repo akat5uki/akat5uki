@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> People don't notice whether it's winter or summer when they're happy.
+> In skating over thin ice our safety is in our speed. 
 > 
-> _Anton Chekhov_
+> _Ralph Emerson_
 <!-- QUOTES:END -->
