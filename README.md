@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on man unless they act.
+> Most great people have attained their greatest success just one step beyond their greatest failure.  
 > 
-> _G. K. Chesterton_
+> _Napoleon Hill _
 <!-- QUOTES:END -->
