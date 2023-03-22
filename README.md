@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Most great people have attained their greatest success just one step beyond their greatest failure.  
+> To accomplish great things, we must not only act, but also dream; not only plan, but also believe. 
 > 
-> _Napoleon Hill _
+> _Anatole France_
 <!-- QUOTES:END -->
