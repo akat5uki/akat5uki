@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> At times our own light goes out and is rekindled by a spark from another person. Each of us has cause to think with deep gratitude of those who have lighted the flame within us. 
+> Good thoughts are no better than good dreams, unless they be executed. 
 > 
-> _Albert Schweitzer_
+> _Ralph Emerson_
 <!-- QUOTES:END -->
