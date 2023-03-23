@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> To accomplish great things, we must not only act, but also dream; not only plan, but also believe. 
+> At times our own light goes out and is rekindled by a spark from another person. Each of us has cause to think with deep gratitude of those who have lighted the flame within us. 
 > 
-> _Anatole France_
+> _Albert Schweitzer_
 <!-- QUOTES:END -->
