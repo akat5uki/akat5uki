@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Good thoughts are no better than good dreams, unless they be executed. 
+> Happiness is the reward we get for living to the highest right we know.  
 > 
-> _Ralph Emerson_
+> _Richard Bach _
 <!-- QUOTES:END -->
