@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Happiness is the reward we get for living to the highest right we know.  
+> We read the world wrong and say that it deceives us.
 > 
-> _Richard Bach _
+> _Rabindranath Tagore_
 <!-- QUOTES:END -->
