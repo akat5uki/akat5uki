@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> We read the world wrong and say that it deceives us.
+> All children are artists. The problem is how to remain an artist once he grows up. 
 > 
-> _Rabindranath Tagore_
+> _Pablo Picasso_
 <!-- QUOTES:END -->
