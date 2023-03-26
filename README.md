@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Divide each difficulty into as many parts as is feasible and necessary to resolve it. 
+> Most folks are about as happy as they make up their minds to be. 
 > 
-> _Rene Descartes_
+> _Abraham Lincoln_
 <!-- QUOTES:END -->
