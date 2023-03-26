@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> All children are artists. The problem is how to remain an artist once he grows up. 
+> Divide each difficulty into as many parts as is feasible and necessary to resolve it. 
 > 
-> _Pablo Picasso_
+> _Rene Descartes_
 <!-- QUOTES:END -->
