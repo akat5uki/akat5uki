@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Most folks are about as happy as they make up their minds to be. 
+> It is the greatest of all mistakes to do nothing because you can only do little — do what you can. 
 > 
-> _Abraham Lincoln_
+> _Sydney Smith _
 <!-- QUOTES:END -->
