@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> It is the greatest of all mistakes to do nothing because you can only do little — do what you can. 
+> One who is too insistent on his own views, finds few to agree with him.
 > 
-> _Sydney Smith _
+> _Laozi_
 <!-- QUOTES:END -->
