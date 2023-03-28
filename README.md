@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> It is better to understand a little than to misunderstand a lot. 
+> Take no thought of who is right or wrong or who is better than. Be not for or against.  
 > 
-> _Anatole France_
+> _Bruce Lee _
 <!-- QUOTES:END -->
