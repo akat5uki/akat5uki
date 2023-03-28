@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> One who is too insistent on his own views, finds few to agree with him.
+> It is better to understand a little than to misunderstand a lot. 
 > 
-> _Laozi_
+> _Anatole France_
 <!-- QUOTES:END -->
