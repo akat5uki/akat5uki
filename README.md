@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Mountains cannot be surmounted except by winding paths. 
+> He who controls others may be powerful, but he who has mastered himself is mightier still.  
 > 
-> _Johann Wolfgang Von Goethe_
+> _Lao Tzu _
 <!-- QUOTES:END -->
