@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Take no thought of who is right or wrong or who is better than. Be not for or against.  
+> Mountains cannot be surmounted except by winding paths. 
 > 
-> _Bruce Lee _
+> _Johann Wolfgang Von Goethe_
 <!-- QUOTES:END -->
