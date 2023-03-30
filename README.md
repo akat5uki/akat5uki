@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> There is one thing you have got to learn about our movement. Three people are better than no people. 
+> Imagination is not a talent of some men but is the health of every man. 
 > 
-> _Fannie Hamer_
+> _Ralph Waldo Emerson _
 <!-- QUOTES:END -->
