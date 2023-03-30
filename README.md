@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> He who controls others may be powerful, but he who has mastered himself is mightier still.  
+> There is one thing you have got to learn about our movement. Three people are better than no people. 
 > 
-> _Lao Tzu _
+> _Fannie Hamer_
 <!-- QUOTES:END -->
