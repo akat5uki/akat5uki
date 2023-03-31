@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Imagination is not a talent of some men but is the health of every man. 
+> Choose a job you love, and you will never have to work a day in your life.
 > 
-> _Ralph Waldo Emerson _
+> _Confucius_
 <!-- QUOTES:END -->
