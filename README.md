@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Choose a job you love, and you will never have to work a day in your life.
+> Difficulties are things that show a person what they are.  
 > 
-> _Confucius_
+> _Epictetus _
 <!-- QUOTES:END -->
