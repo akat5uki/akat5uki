@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Difficulties are things that show a person what they are.  
+> Once we accept our limits, we go beyond them.
 > 
-> _Epictetus _
+> _Albert Einstein_
 <!-- QUOTES:END -->
