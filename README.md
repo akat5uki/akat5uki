@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Our greatest glory is not in never falling, but in rising every time we fall.  
+> When you doubt your power, you give power to your doubt.
 > 
-> _Confucius _
+> _Honore de Balzac_
 <!-- QUOTES:END -->
