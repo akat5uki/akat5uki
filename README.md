@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> When you doubt your power, you give power to your doubt.
+> Example has more followers than reason. 
 > 
-> _Honore de Balzac_
+> _Christian Bovee_
 <!-- QUOTES:END -->
