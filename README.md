@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> However many holy words you read, However many you speak, What good will they do you If you do not act on upon them?
+> Not what we have but what we enjoy constitutes our abundance.
 > 
-> _Buddha_
+> _John Petit-Senn_
 <!-- QUOTES:END -->
