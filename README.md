@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Example has more followers than reason. 
+> However many holy words you read, However many you speak, What good will they do you If you do not act on upon them?
 > 
-> _Christian Bovee_
+> _Buddha_
 <!-- QUOTES:END -->
