@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> A short saying often contains much wisdom. 
+> Take it easy — but take it. 
 > 
-> _Sophocles_
+> _Woody Guthrie_
 <!-- QUOTES:END -->
