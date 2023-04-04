@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Not what we have but what we enjoy constitutes our abundance.
+> A short saying often contains much wisdom. 
 > 
-> _John Petit-Senn_
+> _Sophocles_
 <!-- QUOTES:END -->
