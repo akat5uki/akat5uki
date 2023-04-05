@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> It does not matter how slowly you go as long as you do not stop. 
+> Autumn is a second spring when every leaf is a flower. 
 > 
-> _Confucius _
+> _Albert Camus_
 <!-- QUOTES:END -->
