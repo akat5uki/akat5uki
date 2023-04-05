@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Take it easy — but take it. 
+> It does not matter how slowly you go as long as you do not stop. 
 > 
-> _Woody Guthrie_
+> _Confucius _
 <!-- QUOTES:END -->
