@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Autumn is a second spring when every leaf is a flower. 
+> I hear and I forget. I see and I remember. I do and I understand.
 > 
-> _Albert Camus_
+> _Confucius_
 <!-- QUOTES:END -->
