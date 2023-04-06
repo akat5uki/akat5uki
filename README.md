@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> I hear and I forget. I see and I remember. I do and I understand.
+> There is nothing impossible to him who will try.  
 > 
-> _Confucius_
+> _Alexander the Great _
 <!-- QUOTES:END -->
