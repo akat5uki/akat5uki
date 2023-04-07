@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> There is nothing impossible to him who will try.  
+> A day of worry is more exhausting than a day of work. 
 > 
-> _Alexander the Great _
+> _John Lubbock_
 <!-- QUOTES:END -->
