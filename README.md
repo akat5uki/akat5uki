@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> A day of worry is more exhausting than a day of work. 
+> Many people have a wrong idea of what constitutes true happiness. It is not attained through self-gratification, but through fidelity to a worthy purpose. 
 > 
-> _John Lubbock_
+> _Helen Keller_
 <!-- QUOTES:END -->
