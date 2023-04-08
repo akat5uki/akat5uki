@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Many people have a wrong idea of what constitutes true happiness. It is not attained through self-gratification, but through fidelity to a worthy purpose. 
+> To dream of the person you would like to be is to waste the person you are.
 > 
-> _Helen Keller_
+> _Tim Menchen_
 <!-- QUOTES:END -->
