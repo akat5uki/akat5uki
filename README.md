@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Knowledge has three degrees — opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition. 
+> There is no duty we so underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world. 
 > 
-> _Plotinus_
+> _Robert Louis Stevenson_
 <!-- QUOTES:END -->
