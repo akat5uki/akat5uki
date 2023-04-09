@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> There is no duty we so underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world. 
+> Correction does much, but encouragement does more. 
 > 
-> _Robert Louis Stevenson_
+> _Johann Wolfgang von Goethe_
 <!-- QUOTES:END -->
