@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Correction does much, but encouragement does more. 
+> Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing.
 > 
-> _Johann Wolfgang von Goethe_
+> _Aristotle_
 <!-- QUOTES:END -->
