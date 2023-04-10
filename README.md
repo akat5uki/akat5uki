@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing.
+> Lose an hour in the morning, and you will spend all day looking for it. 
 > 
-> _Aristotle_
+> _Richard Whately_
 <!-- QUOTES:END -->
