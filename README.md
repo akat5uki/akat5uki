@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Nothing is so strong as gentleness. Nothing is so gentle as real strength. 
+> There are no limitations to the mind except those we acknowledge.  
 > 
-> _Frances de Sales_
+> _Napoleon Hill _
 <!-- QUOTES:END -->
