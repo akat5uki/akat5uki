@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Lose an hour in the morning, and you will spend all day looking for it. 
+> Nothing is so strong as gentleness. Nothing is so gentle as real strength. 
 > 
-> _Richard Whately_
+> _Frances de Sales_
 <!-- QUOTES:END -->
