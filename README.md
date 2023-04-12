@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> There are no limitations to the mind except those we acknowledge.  
+> All the world is a stage, And all the men and women merely players.They have their exits and entrances; Each man in his time plays many parts.
 > 
-> _Napoleon Hill _
+> _William Shakespeare_
 <!-- QUOTES:END -->
