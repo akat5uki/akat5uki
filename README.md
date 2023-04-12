@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> All the world is a stage, And all the men and women merely players.They have their exits and entrances; Each man in his time plays many parts.
+> Positive thinking will let you do everything better than negative thinking will.  
 > 
-> _William Shakespeare_
+> _Zig Ziglar _
 <!-- QUOTES:END -->
