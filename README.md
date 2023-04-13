@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Genius is one percent inspiration and ninety-nine percent perspiration. 
+> You won't skid if you stay in a rut.
 > 
-> _Thomas Edison_
+> _Kin Hubbard_
 <!-- QUOTES:END -->
