@@ -108,7 +108,7 @@ _**...Coming soon...**_
 ## 📣 How about a quote before you go?
 <br>
 
-> Positive thinking will let you do everything better than negative thinking will.  
+> Genius is one percent inspiration and ninety-nine percent perspiration. 
 > 
-> _Zig Ziglar _
+> _Thomas Edison_
 <!-- QUOTES:END -->
